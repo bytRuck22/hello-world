@@ -12,11 +12,11 @@ def fonction1(a: int) -> int:
 
 
 def fonction2(a: int) -> str:
-    return str(a + 1)
+    return str(a + 2)
 
 
 def fonction3(b: str) -> int:
-    return int(b + '1')
+    return int(b + '2')
 
 
 def fonction4(c: float) -> float:
