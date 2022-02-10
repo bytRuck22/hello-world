@@ -20,7 +20,7 @@ def fonction3(b: str) -> int:
 
 
 def fonction4(c: float) -> float:
-    return c + 1
+    return c + 2
 
 
 def fonction5(k: float) -> float:
