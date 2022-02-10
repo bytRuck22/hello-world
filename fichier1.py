@@ -23,5 +23,5 @@ def fonction4(c: float) -> float:
     return c + 1
 
 
-def fonction5(k: str) -> str:
-    return k.capitalize()
+def fonction5(k: float) -> float:
+    return 2 * k
