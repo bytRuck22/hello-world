@@ -1,8 +1,8 @@
 ##############
-# 
+#
 # auteur: moi
 #
-# mail: 
+# mail:
 #
 ##############
 
@@ -17,3 +17,7 @@ def fonction2(a: int) -> str:
 
 def fonction3(b: str) -> int:
     return int(b + '1')
+
+
+def fonction4(c: float) -> float:
+    return c + 1
